@@ -5,9 +5,13 @@ We specialize in creating advanced 🤖 AI Agents and Agentic Workflows.
 Our AI Agents are :
 
 → driven by cutting-edge AI technology
+
 → adaptable to your business needs
+
 → ready to integrate seamlessly with various systems
+
 → excellent at teaming with both humans and other AI agents
+
 → advocates of your business
 
 Our process is fast and efficient, with clear, fixed pricing and a focus on achievable goals. 
